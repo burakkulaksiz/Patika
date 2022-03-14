@@ -1,0 +1,43 @@
+div > ul {
+  list-style-type: none;
+}
+
+.search {
+  text-align: center;
+}
+
+.search__div {
+  width: 1370px;
+  background-color: #eeeeee;
+}
+
+.footer div {
+  display: inline-block;
+  /* width: 455px; */
+  height: 90px;
+  text-align: center;
+  margin-top: 2px;
+  margin-left: 2px;
+  padding-bottom: -2px;
+}
+
+.footer__first {
+  background-color: #7ee5da;
+  width: 505px;
+}
+
+.footer__second {
+  background-color: #70ccc2;
+  width: 355px;
+}
+
+.footer__third {
+  background-color: #62b3aa;
+  width: 505px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
