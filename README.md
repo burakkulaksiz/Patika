@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Kodluyoruz - Patika dersleri kapsamında yazdığım kodların ve geliştirdiğim projelerin bulunduğu repo
 https://www.patika.dev/tr
 =======
+=======
+>>>>>>> main
 # A repo containing the projects made within the scope of the patika.dev curriculum.
 
 ## Google Old Main Page
@@ -15,4 +18,7 @@ This page was edited in a very amateur way and without responsive design, but I 
 Fixed serious complexities in design with a given task. In general, the design is not mine, but all the requirements of the task were fulfilled.
 
 ![Google Old Main Page](02-Google/screenshots/screenshot.png)
+<<<<<<< HEAD
 >>>>>>> 184c9b3 (Readme updated)
+=======
+>>>>>>> main
